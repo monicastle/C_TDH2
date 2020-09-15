@@ -26,11 +26,11 @@ Proyecto Torres de Hanoi (Parte 2) en **C++** diseñado para demostrar:
 
 ---
 
-## :red_circle: Hanoi_Texto.cpp
+## :red_circle: Hanoi_ascii.cpp
 
-![](Images/TorresHanoi.png)
+![](Images/TDH2.png)
 
-## :purple_circle: Salida - Torres de Hanoi
+## :purple_circle: Salida - Torres de Hanoi Graficamente
 
 ![](Images/SalidaTDH.jpeg)
 
